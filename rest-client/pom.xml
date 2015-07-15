@@ -1,13 +1,13 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <parent>
-    <groupId>MarutiServer</groupId>
-    <artifactId>MarutiServer</artifactId>
+    <groupId>webservices-rest</groupId>
+    <artifactId>webservices-rest</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>Test2</artifactId>
-  <name>Test2</name>
-  <description>Test2</description>
+  <artifactId>rest-client</artifactId>
+  <name>rest-client</name>
+  <description>rest-client</description>
   
   <dependencies>
   <dependency>

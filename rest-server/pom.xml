@@ -2,14 +2,13 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
-		<groupId>MarutiServer</groupId>
-		<artifactId>MarutiServer</artifactId>
+		<groupId>webservices-rest</groupId>
+		<artifactId>webservices-rest</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<artifactId>Test1</artifactId>
-	<packaging>war</packaging>
-	<name>Test1</name>
-	<description>Test1</description>
+	<artifactId>rest-server</artifactId>
+	<name>rest-server</name>
+	<description>rest-server</description>
 
 
 	<dependencies>
